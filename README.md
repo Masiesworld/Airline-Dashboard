@@ -12,7 +12,7 @@
 - Now that the environments for the webpage is created and data are retrieved, open browser at "localhost:5000" and see your result.
 - By changing the dropdown menu, you should be able to see changes in the tweets table down below. Enjoy!
 
-## Note: 
+## Note (do this before start): 
 flights.csv in the zip file. Please download it and put all the csv files under "Resources" folder. 
 
 ## There are some screenshoot of the final result:
