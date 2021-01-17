@@ -5,7 +5,7 @@
 - For the background, we used bideo.js to have a full screen video playing. 
 
 ## How to run this app locally: 
-- First, run the file "Analysis_v2.ipynb" in jupyter notebook. There might be some pacjage you need to install. 
+- First, run the file "Analysis_v2.ipynb" in jupyter notebook. There might be some packages you need to install. 
 - In the last step of analysis mentioned above, we will connect to MongoDB. You need to ensure that your mongodb server is running in the background. 
 - Second, Check if all the outputs are saved to "Resources/output" and if there is a database called "flights2_db" in MongoDB with 6 collections. The name of collections should match with files in "Resources/output". 
 - Third, open the terminal of your choice, locate to where you save all the files, and run "python app.py" from terminal. 
