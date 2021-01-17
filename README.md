@@ -13,7 +13,7 @@
 - By changing the dropdown menu, you should be able to see changes in the tweets table down below. Enjoy!
 
 ## Note (do this before start): 
-flights.csv in the zip file. Please download it and put all the csv files under "Resources" folder. 
+flights.csv in the zip file. Please download it and put it under "Resources" folder. 
 
 ## There are some screenshoot of the final result:
 ![app1](images/app1.png)
