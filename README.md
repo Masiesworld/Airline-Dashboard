@@ -5,8 +5,7 @@
 - For the background, we used bideo.js to have a full screen video playing. 
 
 ## Tools Used
-## Packages:
-pandas, numpy, sklearn, matplotlib, flask
+**Packages:** pandas, numpy, sklearn, matplotlib, flask
 
 ## How to run this app locally: 
 - First, run the file "Analysis_v2.ipynb" in jupyter notebook. There might be some packages you need to install. 
