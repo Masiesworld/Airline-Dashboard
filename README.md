@@ -5,7 +5,7 @@
 - For the background, we used bideo.js to have a full screen video playing. 
 
 ## Tools Used
-## Packages:## 
+## Packages:
 pandas, numpy, sklearn, matplotlib, flask
 
 ## How to run this app locally: 
