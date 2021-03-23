@@ -1,8 +1,11 @@
-# Airline_Visualization
+# Airline_Visualization: Project Overview
 - In this project, we used the 2015 delayed and cancalled flights data from kaggle.com and visualized delayed and cancelled flights data by their features. 
 - We built a python-powered flask app and then use plotly.js to add graphs on it. 
-- The database we used is MongoDB. 
+- The database we used is MongoDB; we also built a client facing API using flask.
 - For the background, we used bideo.js to have a full screen video playing. 
+
+## Tools Used
+##Packages: pandas, numpy, sklearn, matplotlib, flask##
 
 ## How to run this app locally: 
 - First, run the file "Analysis_v2.ipynb" in jupyter notebook. There might be some packages you need to install. 
